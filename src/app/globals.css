@@ -120,7 +120,8 @@
   }
 
   body {
-    @apply bg-background text-foreground select-none;
+    @apply bg-background text-foreground;
+    /* TODO: add "select-none" later */
   }
 }
 
